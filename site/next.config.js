@@ -4,14 +4,14 @@ const nextConfig = {
   output: 'export',
   distDir: '../public',
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'kasm test repo',
+    description: 'second attempt',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://jack-coocoo.github.io/test-repo/ ',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/test-repo/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,

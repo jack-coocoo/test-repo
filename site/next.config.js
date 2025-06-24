@@ -7,7 +7,7 @@ const nextConfig = {
     name: 'kasm test repo',
     description: 'second attempt',
     icon: '/img/logo.svg',
-    listUrl: 'https://jack-coocoo.github.io/test-repo/ ',
+    listUrl: 'https://jack-coocoo.github.io/test-repo/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,

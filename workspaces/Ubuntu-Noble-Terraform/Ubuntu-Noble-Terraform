@@ -1,0 +1,24 @@
+{
+  "description": "Noble with Terraform",
+  "docker_registry": "ghcr.io",
+  "image_src": "jack-coocoo/noble-terraform:1.2",
+  "categories": [
+    "Development"
+  ],
+  "friendly_name": "Noble with Terraform and VS Code extensions",
+  "architecture": [
+    "amd64",
+    "arm64"
+  ],
+  "compatibility": [
+    {
+      "version": "1.17.x",
+      "image": "kasmweb/vs-code:1.17",
+      "uncompressed_size_mb": 2528,
+      "available_tags": [
+        "develop",
+        "1.17.0"
+      ]
+    }
+  ]
+}
